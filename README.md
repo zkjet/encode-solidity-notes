@@ -28,6 +28,10 @@ Here's a starting point for collaborative notes for our Solidity class at Encode
 ## Markdown CheatSheet
 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
 
+> For Solidity syntax highlighting use three backticks 
+\```solidity 
+followed by code and then ``` like below.
+
 ```solidity
 
 // SPDX-License-Identifier: GPL-3.0
