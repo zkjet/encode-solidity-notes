@@ -16,6 +16,7 @@
 ## N
 ## O
 ## P
+### pure keyword
 ## Q
 ## R
 ## S
