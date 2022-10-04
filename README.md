@@ -15,6 +15,7 @@ Here's a starting point for collaborative notes for our Solidity class at Encode
 
 ### [Terminology](https://github.com/zkjet/encode-solidity-notes/blob/main/terminology.md)
 ### [Links](https://github.com/zkjet/encode-solidity-notes/blob/main/links.md)
+### [Socials](https://github.com/zkjet/encode-solidity-notes/blob/main/socials.md)
 ### 01
 ### 02
 ### 03
