@@ -4,6 +4,7 @@
 
 [Solidity Docs](https://docs.soliditylang.org/en/v0.8.17/)
 
+---
 ## Table of Contents
 
 
@@ -24,7 +25,7 @@ Here's a starting point for collaborative notes for our Solidity class at Encode
 ### 08
 ### 09
 ### 10
-
+---
 ## Markdown CheatSheet
 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
 
@@ -50,5 +51,7 @@ contract SimpleStorage {
 }
 
 ```
+---
 ## Resources
+---
 ## Contributors
